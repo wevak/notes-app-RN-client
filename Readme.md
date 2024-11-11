@@ -2,6 +2,8 @@
 
 <a href="https://drive.google.com/file/d/1YZwjLTLLTVrvnHKY_dZ0r6YaPF1tuRTV/view?usp=sharing">Notes app Android Build Package(apk)</a>
 
+Creds: Email: admin@admin.com Password: 123456
+
 ## Backend deployed
 
 https://production-rn-notes-server.onrender.com/api/v1
